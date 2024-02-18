@@ -10,3 +10,5 @@ Found in ```../chassis``` *track postion* path functions.
 * Exponential driving input
 * Switch between mechanum and omni drive.
 * Exponential drive for smoother controls
+
+![](https://github.com/LSA125/OdometryTracking/blob/main/RobotAuto.gif)
